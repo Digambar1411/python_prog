@@ -24,7 +24,7 @@ def swap_numbers(a, b):
     temp = a
     a = b
     b = temp
-    print("Befor swaping :x={},y={}".format(n1,n2))
+    # print("Befor swaping :x={} and y={}".format(n1,n2))
     print("After Swapping: x={} and y={}".format(a, b))
 n1 = input(" Please Enter the First Value : ")
 n2 = input(" Please Enter the Second Value : ")
